@@ -34,5 +34,8 @@ The rest of the projects were done in university courses.
  • The class register project is a website that allows lectures to create course with prerequests, participant limitation, duration, location etc., and allows 
    students who fit the requirements to register in them. Students can choose the course they want to take and the class they want to go to.
    (did python server and Jinja frontend)  (Team leader)
+   
+ • The event information gatherring website gathers events information in and around UNSW for students, the time, duration, type of events and the distances 
+   from UNSW can be set as search criteria by users. It also providing Restful API for other developers (did Tomcat server and JavaScript, ajax frontend)
 
 The cover letter is from the Mikason group
