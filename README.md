@@ -31,7 +31,7 @@ The rest of the projects were done in university courses.
 
  • The web spider project is an information gathering and analysis website, it gathers diseases outbreaks information, analyze the information and predict the location and      type of the next disease outbreak. It also provides Restful API for other developers. (did Scrapy web spider, SQLite Database and Flask server)
  
- • The class register project is a website that allows lectures to create course with prerequests, participant limitation, duration, location etc., and allows 
+ • The class register project is a website that allows lectures to create course with prerequisites, participant limitation, duration, location etc., and allows 
    students who fit the requirements to register in them. Students can choose the course they want to take and the class they want to go to.
    (did python server and Jinja frontend)  (Team leader)
    
