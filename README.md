@@ -28,6 +28,7 @@ The online comic-con project is a commercial projects I did and developer.(I del
 
 
 The rest of the projects were done in university courses.
+
  • The web spider project is an information gathering and analysis website, it gathers diseases outbreaks information, analyze the information and predict the location and      type of the next disease outbreak. It also provides Restful API for other developers. (did Scrapy web spider, SQLite Database and Flask server)
  
  • The class register project is a system that allows lectures to create course with prerequests, participant limitation, duration, location etc., and allows 
