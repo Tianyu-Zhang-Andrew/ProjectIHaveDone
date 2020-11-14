@@ -26,6 +26,14 @@ The online comic-con project is a commercial projects I did and developer.(I del
  • It was a test-driven development; all functions of the server were tested by a corresponding test.
 
 
+The Django_prohect is a doctor side video conferencing telemedicine web application 
+
+ • It has Django backend and JavaScript/Jquery frontend.
+
+ • The Video conferencing function is provided by Twilio.
+ 
+ • Doctors can monitor patients' real-time heart rate, blood presure, body temperature remotely and give them real-time advice through video conferencing.
+ 
 
 The rest of the projects were done in university courses.
 
