@@ -13,6 +13,7 @@ The mikason project is the commercial project I did as an intern.(I delete some 
   • It was a test-driven development; all functions of the server were tested by a corresponding test.
 
 
+
 The online comic-con project is a commercial projects I did and developer.(I delete some part to ensure the security of the system) (demonstration of backend skill)
 
  • Developed an online comic-con platform, it allows users to register the product they want the show, the information of their team, and the size of the spot they need etc.
@@ -26,6 +27,7 @@ The online comic-con project is a commercial projects I did and developer.(I del
  • It was a test-driven development; all functions of the server were tested by a corresponding test.
 
 
+
 The Django_project is a doctor side video conferencing telemedicine web application (demonstration of frontend skill)
 
  • It has Django backend and JavaScript/Jquery frontend.
@@ -35,6 +37,9 @@ The Django_project is a doctor side video conferencing telemedicine web applicat
  • Doctors can monitor patients' real-time heart rate, blood presure, body temperature remotely and give them real-time advice through video conferencing.
  
  • Read readme file in the zip for more detailed information.
+ 
+ 
+ 
 
 The rest of the projects were done in university courses.
 
