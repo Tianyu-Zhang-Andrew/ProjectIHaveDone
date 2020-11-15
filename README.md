@@ -26,7 +26,7 @@ The online comic-con project is a commercial projects I did and developer.(I del
  • It was a test-driven development; all functions of the server were tested by a corresponding test.
 
 
-The tcc-Videoconf-web-app is a doctor side video conferencing telemedicine web application (demonstration of frontend skill)
+The Django_project is a doctor side video conferencing telemedicine web application (demonstration of frontend skill)
 
  • It has Django backend and JavaScript/Jquery frontend.
 
