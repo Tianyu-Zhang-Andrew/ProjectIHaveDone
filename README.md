@@ -14,7 +14,7 @@
 
 
 
-• The LinkForATelemedicineProject is a github link of a telemedicine project (demonstration of frontend skill, also has backend)
+• The LinkForATelemedicineProject is a github link of a telemedicine project (mainly a demonstration of frontend skill)
 
  1. It has a Django backend.
  
