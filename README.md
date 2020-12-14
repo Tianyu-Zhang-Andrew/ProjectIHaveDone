@@ -1,18 +1,19 @@
 # ProjectsIHaveDone
-• The mikason project is the commercial project I did as an intern.(I delete some part to ensure the security of the system) (demonstration of backend skill)
+• The LinkForSpringBootBackend is a github link to a commercial project I did as an intern.(I delete some part to ensure the security of the system) (demonstration of backend skill)
 
   1. Informationeloped of real-estate website, it can intuitively show information related to real estates, including price, 
      address, room type, rental and trading information, inspection record etc.
 
   2. I was responsible for the development of databases and servers.
 
-  3. Spring boot framework and MySQL database was used.
+  3. Spring boot framework and MySQL database (through JPA) was used.
 
   4. The project was completed with Agile development.
 
   5. It was a test-driven development; all functions of the server were tested by a corresponding test.
 
-
+  6. Read readme file in the repository for more detailed information.
+  
 
 • The LinkForATelemedicineProject is a github link of a telemedicine project (mainly a demonstration of frontend skill)
 
