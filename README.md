@@ -31,7 +31,7 @@
  
  
 
-• The online comic-con project is a commercial projects I did and developer.(I delete some part to ensure the security of the system) (demonstration of backend skill)
+• The LinkForOnlineComicConDatabase is a commercial projects I did as developer.(I delete some part to ensure the security of the system) (demonstration of database skill)
 
  1. Developed an online comic-con platform, it allows users to register the product they want the show, the information of their team, and the size of the spot they need etc.
 
@@ -42,6 +42,8 @@
  4. The project was completed with Agile development.
 
  5. It was a test-driven development; all functions of the server were tested by a corresponding test.
+ 
+ 6. Read readme file in the repository for more detailed information.
  
  
 
