@@ -2,7 +2,7 @@
 a. The LinkForSpringBootBackend is a github link to a commercial project I did as an intern.
    (I delete some part to ensure the security of the system) (demonstration of backend skill)
 
-  1. Informationeloped of real-estate website, it can intuitively show information related to real estates, including price, 
+  1. A real-estate website, it can intuitively show information related to real estates, including price, 
      address, room type, rental and trading information, inspection record etc.
 
   2. I was responsible for the development of databases and servers.
